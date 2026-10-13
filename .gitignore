@@ -1,0 +1,16 @@
+# Ignore the contents of the _site directory and other cache directories
+_site/
+.sass-cache/
+
+# Local development files and private profile materials
+local/
+
+# Private source image used in local profile materials
+/images/截屏2026-10-09 20.53.52.png
+
+# Ignore the Gemfile that is generated
+Gemfile.lock
+
+# Ingore files created by npm
+node_modules
+package-lock.json
